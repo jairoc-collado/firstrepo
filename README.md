@@ -28,4 +28,7 @@
 - `git commit -m "your message here"` - create a message for that specific version of your project
 - `git push origin main`. (if used with -u (upstream flag) you only need git push for then on out)
 
-# kids <Arian,Amelia,Amayah>
+# favorite sports teams
+NBA Phoenix
+MLB RedSox
+NFL Eagles
